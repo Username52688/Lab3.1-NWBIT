@@ -1,1 +1,0 @@
-nazwaPliku.sh
