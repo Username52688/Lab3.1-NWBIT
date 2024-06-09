@@ -1,1 +1,0 @@
-nazwaPliku2.sh
